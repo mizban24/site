@@ -1,771 +1,120 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="" />
-    <meta name="description" content="V2Makers - خرید سرویس V2Ray پرسرعت و بدون قطعی با بهترین قیمت - اتصال ایمن و پایدار به اینترنت آزاد با پشتیبانی 24 ساعته">
-    <meta name="keywords" content="V2Makers, خرید v2ray, v2ray ارزان, ویتوری پرسرعت, ویتوری بدون قطعی, خرید v2box, خرید v2rayng, خرید shadowrocket">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="V2Makers - خرید سرویس V2Ray پرسرعت و بدون قطعی">
-    <meta property="og:description" content="سرویس V2Ray با سرعت بالا و اتصال پایدار برای دسترسی بدون محدودیت به اینترنت">
-    <meta property="og:type" content="website">
-    <meta property="og:locale" content="fa_IR">
-    <link rel="canonical" href="https://mizbanip.github.io">
-    <title>V2Makers | خرید سرویس V2Ray پرسرعت و بدون قطعی</title>
-    <link rel="icon" type="image/png" href="/favicon.png">
-    
-    <!-- ساختار schema.org برای بهبود نمایش در نتایج جستجو -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "V2Makers",
-      "url": "https://mizbanip.github.io",
-      "logo": "https://mizbanip.github.io/logo.png",
-      "description": "ارائه دهنده سرویس‌های V2Ray پرسرعت و ایمن",
-      "sameAs": [
-        "https://t.me/v2makers_admin"
-      ]
-    }
-    </script>
-    
-    <script type="text/javascript">
-  !function(){var i="LePkJp",a=window,d=document;function g(){var g=d.createElement("script"),s="https://www.goftino.com/widget/"+i,l=localStorage.getItem("goftino_"+i);g.async=!0,g.src=l?s+"?o="+l:s;d.getElementsByTagName("head")[0].appendChild(g);}"complete"===d.readyState?g():a.attachEvent?a.attachEvent("onload",g):a.addEventListener("load",g,!1);}();
-</script>
-    
-    <!-- لینک فونت وزیر -->
-    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/font-face.css" rel="stylesheet" type="text/css" />
-    
-    <!-- لینک فونت ایران سنس -->
-    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/iransans-font@latest/dist/font-face.css" rel="stylesheet" type="text/css" />
-    
-    <style>
-        :root {
-            --primary-color: #6C63FF;
-            --secondary-color: #4D44DB;
-            --accent-color: #FF6584;
-            --dark-color: #2A2D3E;
-            --light-color: #F6F6F6;
-            --success-color: #28C76F;
-            --warning-color: #FF9F43;
-            --danger-color: #EA5455;
-            --text-color: #4A4A4A;
-            --text-light: #6C6C6C;
-        }
-        
-        * {
-            font-family: Vazir, IranSans, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            box-sizing: border-box;
-        }
-        
-        body {
-            line-height: 1.8;
-            color: var(--text-color);
-            margin: 0;
-            padding: 0;
-            background-color: var(--light-color);
-            overflow-x: hidden;
-        }
-        
-        header {
-            background: linear-gradient(135deg, var(--dark-color), var(--primary-color));
-            color: white;
-            padding: 40px 20px;
-            text-align: center;
-            margin-bottom: 30px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
-            position: relative;
-            overflow: hidden;
-        }
-        
-        header::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            right: 0;
-            width: 100%;
-            height: 100%;
-            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path fill="rgba(255,255,255,0.05)" d="M0,0 L100,0 L100,100 L0,100 Z" /></svg>');
-            background-size: cover;
-            opacity: 0.3;
-        }
-        
-        h1 {
-            margin: 0;
-            font-size: 2.8em;
-            font-weight: 800;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-            position: relative;
-            color: white;
-        }
-        
-        h2 {
-            color: var(--dark-color);
-            border-bottom: 3px solid var(--primary-color);
-            padding-bottom: 12px;
-            margin-top: 50px;
-            font-size: 2em;
-            position: relative;
-            font-weight: 700;
-        }
-        
-        h2::after {
-            content: "";
-            position: absolute;
-            bottom: -3px;
-            right: 0;
-            width: 80px;
-            height: 3px;
-            background: var(--accent-color);
-        }
-        
-        h3 {
-            color: var(--secondary-color);
-            font-size: 1.6em;
-            margin-top: 30px;
-            font-weight: 600;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-        
-        .main-content {
-            background: white;
-            padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
-            margin-bottom: 40px;
-            position: relative;
-            overflow: hidden;
-            border: 1px solid rgba(0,0,0,0.05);
-        }
-        
-        .pricing-section {
-            background: white;
-            padding: 40px;
-            border-radius: 12px;
-            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
-            margin-bottom: 40px;
-        }
-        
-        .pricing-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 25px;
-            margin-top: 30px;
-        }
-        
-        .price-plan {
-            background: white;
-            border-radius: 10px;
-            padding: 25px;
-            transition: all 0.3s ease;
-            border: 1px solid rgba(0,0,0,0.1);
-            position: relative;
-            overflow: hidden;
-            box-shadow: 0 3px 15px rgba(0,0,0,0.05);
-        }
-        
-        .price-plan:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
-            border-color: var(--primary-color);
-        }
-        
-        .price-plan::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            right: 0;
-            width: 100%;
-            height: 5px;
-            background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
-        }
-        
-        .price {
-            font-size: 1.8em;
-            color: var(--danger-color);
-            font-weight: 800;
-            margin: 20px 0;
-        }
-        
-        .btn {
-            display: inline-block;
-            color: white;
-            padding: 12px 25px;
-            text-decoration: none;
-            border-radius: 8px;
-            transition: all 0.3s ease;
-            text-align: center;
-            margin-top: 15px;
-            font-size: 1.1em;
-            border: none;
-            cursor: pointer;
-            width: 100%;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-            font-weight: 500;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .btn::after {
-            content: "";
-            position: absolute;
-            top: -50%;
-            right: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.3));
-            transform: rotate(30deg);
-            transition: all 0.3s ease;
-            opacity: 0;
-        }
-        
-        .btn:hover::after {
-            opacity: 1;
-            right: 100%;
-        }
-        
-        .btn-telegram {
-            background: linear-gradient(135deg, #0088cc, #006699);
-        }
-        
-        .btn-telegram:hover {
-            background: linear-gradient(135deg, #006699, #004466);
-            transform: translateY(-3px);
-            box-shadow: 0 6px 12px rgba(0,0,0,0.2);
-        }
-        
-        .btn-goftino {
-            background: linear-gradient(135deg, var(--success-color), #1E9C5E);
-        }
-        
-        .btn-goftino:hover {
-            background: linear-gradient(135deg, #1E9C5E, #15824B);
-            transform: translateY(-3px);
-            box-shadow: 0 6px 12px rgba(0,0,0,0.2);
-        }
-        
-        .feature-list {
-            list-style-type: none;
-            padding: 0;
-        }
-        
-        .feature-list li {
-            padding: 12px 0;
-            border-bottom: 1px solid #eee;
-            position: relative;
-            padding-right: 30px;
-            font-size: 1.1em;
-        }
-        
-        .feature-list li::before {
-            content: "✓";
-            color: var(--success-color);
-            font-weight: bold;
-            position: absolute;
-            right: 0;
-            font-size: 1.2em;
-        }
-        
-        .keyword-section {
-            background-color: white;
-            padding: 25px;
-            border-radius: 10px;
-            margin: 30px 0;
-            border-right: 5px solid var(--primary-color);
-            transition: all 0.3s ease;
-            box-shadow: 0 3px 15px rgba(0,0,0,0.05);
-            border: 1px solid rgba(0,0,0,0.05);
-        }
-        
-        .keyword-section:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-            border-right-color: var(--accent-color);
-        }
-        
-        .highlight {
-            color: var(--danger-color);
-            font-weight: bold;
-            background: rgba(234, 84, 85, 0.1);
-            padding: 2px 6px;
-            border-radius: 4px;
-        }
-        
-        .divider {
-            border-top: 1px dashed #ddd;
-            margin: 30px 0;
-        }
-        
-        footer {
-            text-align: center;
-            margin-top: 60px;
-            padding: 40px;
-            background: linear-gradient(135deg, var(--dark-color), #3A3D50);
-            color: white;
-            box-shadow: 0 -5px 25px rgba(0,0,0,0.1);
-            position: relative;
-        }
-        
-        footer::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            right: 0;
-            width: 100%;
-            height: 100%;
-            background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none"><path fill="rgba(255,255,255,0.05)" d="M0,0 L100,0 L100,100 L0,100 Z" /></svg>');
-            background-size: cover;
-            opacity: 0.3;
-        }
-        
-        .cta-box {
-            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-            border-radius: 12px;
-            padding: 30px;
-            color: white;
-            text-align: center;
-            max-width: 500px;
-            margin: 40px auto;
-            box-shadow: 0 10px 30px rgba(108, 99, 255, 0.3);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-            border: 1px solid rgba(255,255,255,0.2);
-        }
-        
-        .cta-box::before {
-            content: "";
-            position: absolute;
-            top: -50%;
-            right: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.3));
-            transform: rotate(30deg);
-            transition: all 0.5s ease;
-            opacity: 0;
-        }
-        
-        .cta-box:hover::before {
-            opacity: 1;
-            right: 100%;
-        }
-        
-        .cta-box:hover {
-            transform: scale(1.02);
-            box-shadow: 0 15px 40px rgba(108, 99, 255, 0.4);
-        }
-        
-        .cta-box h3 {
-            color: white;
-            margin-top: 0;
-            font-weight: 600;
-            font-size: 1.8em;
-            position: relative;
-        }
-        
-        .cta-box p {
-            margin-bottom: 25px;
-            font-size: 1.1em;
-            opacity: 0.9;
-            position: relative;
-        }
-        
-        .cta-btn {
-            display: block;
-            background: rgba(255,255,255,0.2);
-            color: white;
-            padding: 15px;
-            border-radius: 8px;
-            text-decoration: none;
-            margin-bottom: 15px;
-            font-size: 1.1em;
-            border: 1px solid rgba(255,255,255,0.3);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-            font-weight: 500;
-        }
-        
-        .cta-btn:hover {
-            background: rgba(255,255,255,0.3);
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        }
-        
-        .badge {
-            display: inline-block;
-            padding: 5px 12px;
-            border-radius: 20px;
-            font-size: 0.8em;
-            font-weight: bold;
-            margin-left: 10px;
-            vertical-align: middle;
-        }
-        
-        .badge-new {
-            background-color: var(--accent-color);
-            color: white;
-        }
-        
-        .badge-popular {
-            background-color: var(--success-color);
-            color: white;
-        }
-        
-        .badge-offer {
-            background-color: var(--warning-color);
-            color: white;
-        }
-        
-        .price-plan.featured {
-            border: 2px solid var(--primary-color);
-            box-shadow: 0 5px 25px rgba(108, 99, 255, 0.2);
-        }
-        
-        .price-plan.featured::after {
-            content: "پیشنهاد ویژه";
-            position: absolute;
-            top: 15px;
-            left: -30px;
-            background-color: var(--accent-color);
-            color: white;
-            padding: 5px 30px;
-            font-size: 0.8em;
-            transform: rotate(-45deg);
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-        }
-        
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2.2em;
-            }
-            
-            h2 {
-                font-size: 1.8em;
-            }
-            
-            .pricing-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .main-content, .pricing-section {
-                padding: 25px;
-            }
-            
-            .cta-box {
-                margin: 30px auto;
-                padding: 25px;
-            }
-        }
-        
-        /* انیمیشن‌ها */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        
-        .animated {
-            animation: fadeIn 0.6s ease-out forwards;
-        }
-        
-        .delay-1 { animation-delay: 0.2s; }
-        .delay-2 { animation-delay: 0.4s; }
-        .delay-3 { animation-delay: 0.6s; }
-        
-        /* breadcrumb برای سئو */
-        .breadcrumb {
-            padding: 10px 0;
-            font-size: 0.9em;
-            color: var(--text-light);
-            margin-bottom: 20px;
-        }
-        
-        .breadcrumb a {
-            color: var(--primary-color);
-            text-decoration: none;
-        }
-        
-        /* بهبود سئو برای تصاویر */
-        .img-optimized {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            box-shadow: 0 3px 15px rgba(0,0,0,0.1);
-            transition: all 0.3s ease;
-        }
-        
-        .img-optimized:hover {
-            transform: scale(1.02);
-            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
-        }
-        
-        /* microdata برای سئو */
-        .product-rating {
-            color: var(--warning-color);
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <header class="animated">
-        <div class="container">
-            <h1>V2Makers - سرویس V2Ray پرسرعت و ایمن</h1>
-            <p>راهکاری مطمئن برای اتصال بدون محدودیت به اینترنت</p>
-        </div>
-    </header>
-    
-    <div class="container">
-        <!-- breadcrumb برای سئو -->
-        <div class="breadcrumb animated">
-            <a href="https://mizbanip.github.io">خانه</a> » 
-            <span>سرویس‌های پرسرعت</span>
-        </div>
-        
-        <div class="cta-box animated delay-1">
-            <h3>خرید اشتراک V2Ray از V2Makers</h3>
-            <p>پرسرعت | پایدار | امن با بهترین قیمت</p>
-            
-            <div style="margin: 25px 0;">
-                <a href="https://t.me/v2makers_admin" class="cta-btn animated delay-2">خرید از طریق تلگرام</a>
-                <a href="https://www.goftino.com/c/LePkJp" class="cta-btn animated delay-3">خرید از طریق چت سایت</a>
-            </div>
-        </div>
-        
-        <div class="main-content animated delay-1">
-            <h2>V2Ray چیست؟</h2>
-            <p>V2Ray یک پروژه متن باز است که برای ایجاد ارتباطات خصوصی و ایمن طراحی شده است. این سرویس از پروتکل‌های مختلفی پشتیبانی می‌کند و می‌تواند به عنوان یک ابزار قدرتمند برای دور زدن سانسور اینترنت مورد استفاده قرار گیرد.</p>
-            
-            <h2>مزایای سرویس V2Ray در V2Makers</h2>
-            <ul class="feature-list">
-                <li>سرعت بالا با سرورهای پر قدرت در موقعیت‌های جغرافیایی مختلف</li>
-                <li>پشتیبانی از پروتکل‌های مختلف (VMess, VLESS, Trojan)</li>
-                <li>امنیت بالا با رمزنگاری پیشرفته</li>
-                <li>پایداری و آپتایم بالا (99.9%)</li>
-                <li>پشتیبانی 24 ساعته توسط تیم V2Makers</li>
-                <li>نصب و راهنمای استفاده آسان</li>
-                <li>بدون محدودیت ترافیک (در برخی پلن‌ها)</li>
-                <li>پشتیبانی از IPv6 و TCP Fast Open</li>
-                <li>امکان تغییر سرور بدون محدودیت</li>
-            </ul>
-            
-            <div class="keyword-section animated delay-2">
-                <h2>چرا V2Makers را انتخاب کنیم؟</h2>
-                <p>V2Makers با <span class="highlight">سال‌ها تجربه</span> در زمینه ارائه سرویس‌های پرسرعت و ایمن، بهترین گزینه برای نیازهای شماست:</p>
-                <ul class="feature-list">
-                    <li>سرورهای اختصاصی با پهنای باند بالا</li>
-                    <li>تیم پشتیبانی حرفه‌ای و پاسخگو</li>
-                    <li>به روزرسانی مداوم زیرساخت‌ها</li>
-                    <li>سیستم مانیتورینگ 24 ساعته</li>
-                    <li>پشتیبانی از آخرین پروتکل‌های امنیتی</li>
-                </ul>
-            </div>
-            
-            <h2>راهنمای نصب و استفاده</h2>
-            <p>پس از خرید سرویس از V2Makers، فایل کانفیگ برای شما ارسال خواهد شد که می‌توانید آن را در کلاینت‌های زیر استفاده کنید:</p>
-            
-            <h3>نرم‌افزارهای پیشنهادی:</h3>
-            <ul class="feature-list">
-                <li>Windows: V2RayN, Qv2ray</li>
-                <li>Android: V2RayNG</li>
-                <li>iOS: V2Box, Shadowrocket, Streisand</li>
-                <li>MacOS: V2Box, Shadowrocket, Streisand</li>
-                <li>Linux: Qv2ray</li>
-            </ul>
-            
-            <h3>مراحل راه‌اندازی:</h3>
-            <ol class="feature-list" style="list-style-type: decimal; padding-right: 20px;">
-                <li style="list-style-type: decimal;">دانلود و نصب یکی از نرم‌افزارهای بالا متناسب با سیستم عامل شما</li>
-                <li style="list-style-type: decimal;">وارد کردن فایل کانفیگ دریافتی از V2Makers در نرم‌افزار</li>
-                <li style="list-style-type: decimal;">اتصال به سرور و استفاده از اینترنت بدون محدودیت</li>
-            </ol>
+# V2Makers - سرویس V2Ray پرسرعت و ایمن
 
-            <!-- بخش خرید v2box -->
-            <div class="keyword-section animated delay-2">
-                <h2>خرید v2box - بهترین کلاینت برای iOS و macOS</h2>
-                <p>V2Box یکی از <span class="highlight">پرقدرت‌ترین</span> کلاینت‌های V2Ray برای کاربران محصولات اپل است که ویژگی‌های زیر را ارائه می‌دهد:</p>
-                <ul class="feature-list">
-                    <li>رابط کاربری ساده و کاربرپسند</li>
-                    <li>پشتیبانی از تمام پروتکل‌های V2Ray شامل VMess و VLESS</li>
-                    <li>مصرف بهینه باتری در دستگاه‌های iOS</li>
-                    <li>امکان مدیریت چندین کانفیگ به صورت همزمان</li>
-                    <li>بهبود سرعت اتصال با الگوریتم‌های پیشرفته</li>
-                </ul>
-                <p>برای خرید این نرم‌افزار می‌توانید به اپ استور مراجعه کنید یا از فروشگاه‌های معتبر ایرانی تهیه نمایید.</p>
-            </div>
+## راهکاری مطمئن برای اتصال بدون محدودیت به اینترنت
 
-            <!-- بخش خرید v2rayng -->
-            <div class="keyword-section animated delay-3">
-                <h2>خرید v2rayng - محبوب‌ترین کلاینت اندروید</h2>
-                <p>V2RayNG با دارا بودن <span class="highlight">امکانات پیشرفته</span> و رایگان بودن، بهترین انتخاب برای کاربران اندروید است:</p>
-                <ul class="feature-list">
-                    <li>نرم‌افزار متن باز و رایگان</li>
-                    <li>پشتیبانی از Rule-based routing برای تنظیمات پیشرفته</li>
-                    <li>امکان تست سرعت مستقیم در نرم‌افزار</li>
-                    <li>مصرف بهینه باتری و منابع سیستم</li>
-                    <li>به روزرسانی‌های منظم و پشتیبانی از پروتکل‌های جدید</li>
-                </ul>
-                <p>این نرم‌افزار را می‌توانید از گیت‌هاب یا فروشگاه‌های معتبر دریافت نمایید.</p>
-            </div>
-        </div>
-        
-        <div class="pricing-section animated delay-2" id="pricing">
-            <h2>🟩 تعرفه‌های سرویس V2Ray در V2Makers</h2>
-            <p>پلن‌های متنوع با قیمت‌های مناسب برای نیازهای مختلف</p>
-            
-            <div class="pricing-grid">
-                <div class="price-plan animated delay-1">
-                    <h3>🔻 یک‌ماهه</h3>
-                    <p>25 گیگ (یک‌ماهه)</p>
-                    <p class="price">99 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-1">
-                    <h3>🔻 یک‌ماهه</h3>
-                    <p>50 گیگ (یک‌ماهه)</p>
-                    <p class="price">149 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan featured animated delay-2">
-                    <h3>🔻 یک‌ماهه <span class="badge badge-popular">پرفروش</span></h3>
-                    <p>100 گیگ (یک ماهه)</p>
-                    <p class="price">229 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-2">
-                    <h3>🔻 یک‌ماهه <span class="badge badge-new">جدید</span></h3>
-                    <p>حجم نامحدود یک ماهه (3 کاربره)</p>
-                    <p class="price">275 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-2">
-                    <h3>🔻 دو ماهه</h3>
-                    <p>50 گیگ (دو ماهه)</p>
-                    <p class="price">189 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-3">
-                    <h3>🔻 دو ماهه</h3>
-                    <p>100 گیگ (دو ماهه)</p>
-                    <p class="price">259 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan featured animated delay-3">
-                    <h3>🔻 سه ماهه <span class="badge badge-offer">تخفیف ویژه</span></h3>
-                    <p>100 گیگ (سه ماهه)</p>
-                    <p class="price">339 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-3">
-                    <h3>🔻 سه ماهه</h3>
-                    <p>200 گیگ (سه ماهه)</p>
-                    <p class="price">479 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-3">
-                    <h3>🔻 سه ماهه</h3>
-                    <p>300 گیگ (سه ماهه)</p>
-                    <p class="price">629 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-3">
-                    <h3>🔻 سه ماهه</h3>
-                    <p>400 گیگ (سه ماهه)</p>
-                    <p class="price">799 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan featured animated delay-3">
-                    <h3>🔻 سه ماهه <span class="badge badge-popular">اقتصادی</span></h3>
-                    <p>حجم نامحدود 3 کاربره (سه ماهه)</p>
-                    <p class="price">575 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-                
-                <div class="price-plan animated delay-3">
-                    <h3>🔻 شش ماهه</h3>
-                    <p>200 گیگ (شش ماهه)</p>
-                    <p class="price">639 هزار تومان</p>
-                    <a href="https://t.me/v2makers_admin" class="btn btn-telegram">خرید از تلگرام</a>
-                    <a href="https://www.goftino.com/c/LePkJp" class="btn btn-goftino">خرید از چت سایت</a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="main-content animated delay-3">
-            <h2>تماس با پشتیبانی V2Makers</h2>
-            <p>برای سوالات و مشکلات فنی می‌توانید از راه‌های زیر با ما در ارتباط باشید:</p>
-            
-            <div class="keyword-section">
-                <h3>اطلاعات تماس</h3>
-                <p><strong>تلگرام:</strong> <a href="https://t.me/v2makers_admin">@v2makers_admin</a></p>
-                <p><strong>چت آنلاین:</strong> <a href="https://www.goftino.com/c/LePkJp">پشتیبانی سایت V2Makers</a></p>
-                <p><strong>ساعات پاسخگویی:</strong> 24 ساعته، 7 روز هفته</p>
-                <p><strong>میانگین زمان پاسخگویی:</strong> کمتر از 15 دقیقه</p>
-            </div>
-            
-            <div class="keyword-section">
-                <h3>سوالات متداول</h3>
-                <div class="faq-item">
-                    <h4>چگونه می‌توانم از سرویس V2Makers استفاده کنم؟</h4>
-                    <p>پس از خرید سرویس، فایل کانفیگ برای شما ارسال می‌شود که می‌توانید آن را در نرم‌افزارهای V2Ray مانند V2RayNG یا V2Box وارد کنید.</p>
-                </div>
-                
-                <div class="faq-item">
-                    <h4>آیا سرویس شما تست قبل از خرید دارد؟</h4>
-                    <p>بله، می‌توانید از طریق پشتیبانی درخواست تست رایگان دهید تا از کیفیت سرویس مطمئن شوید.</p>
-                </div>
-                
-                <div class="faq-item">
-                    <h4>سرورهای شما در چه کشورهایی قرار دارند؟</h4>
-                    <p>سرورهای V2Makers در کشورهای مختلف از جمله آلمان، فرانسه، هلند، آمریکا و سنگاپور قرار دارند. شما می‌توانید با توجه به نیاز خود از سرورهای مختلف استفاده کنید.</p>
-                </div>
-                
-                <div class="faq-item">
-                    <h4>آیا استفاده از سرویس شما امن است؟</h4>
-                    <p>بله، سرویس‌های ما با استفاده از پروتکل‌های پیشرفته و رمزنگاری قوی طراحی شده‌اند تا حریم خصوصی شما را حفظ کنند و امنیت بالایی را تضمین کنند.</p>
-                </div>
-                
-                <div class="faq-item">
-                    <h4>چگونه می‌توانم سرویس را تمدید کنم؟</h4>
-                    <p>شما می‌توانید از طریق پشتیبانی سایت یا تلگرام برای تمدید سرویس خود اقدام کنید. همچنین می‌توانید با خرید دوباره از طریق چت آنلاین یا تلگرام اقدام کنید.</p>
-                </div>
-            </div>
-        </div>
-        
-        <footer>
-            <div class="container">
-                <p>تیم V2Makers - تمامی حقوق محفوظ است &copy; 2023</p>
-                <p>وب‌سایت طراحی شده با عشق و هدف ارتقاء دسترسی کاربران به اینترنت بدون تحریم و ایمن.</p>
-                <p><a href="#" style="color: white;">حریم خصوصی</a> | <a href="https://mizbanip.github.io" style="color: white;">شرایط استفاده</a></p>
-            </div>
-        </footer>
-    </div>
-</body>
-</html>
+**V2Makers** یک سرویس V2Ray است که ارتباطات خصوصی و ایمن را فراهم می‌کند. این سرویس از پروتکل‌های مختلفی پشتیبانی می‌کند و می‌تواند به عنوان ابزاری قدرتمند برای دور زدن سانسور اینترنت مورد استفاده قرار گیرد.
+
+---
+
+### ویژگی‌های سرویس V2Ray در V2Makers
+
+- **سرعت بالا** با سرورهای پرقدرت در موقعیت‌های جغرافیایی مختلف
+- **پشتیبانی از پروتکل‌های مختلف** (VMess, VLESS, Trojan)
+- **امنیت بالا** با رمزنگاری پیشرفته
+- **پایداری و آپتایم بالا** (99.9%)
+- **پشتیبانی 24 ساعته** توسط تیم V2Makers
+- **نصب و راهنمای استفاده آسان**
+- **بدون محدودیت ترافیک** (در برخی پلن‌ها)
+- **پشتیبانی از IPv6 و TCP Fast Open**
+- **امکان تغییر سرور بدون محدودیت**
+
+---
+
+### چرا V2Makers را انتخاب کنیم؟
+
+- **سرورهای اختصاصی** با پهنای باند بالا
+- **تیم پشتیبانی حرفه‌ای و پاسخگو**
+- **به روزرسانی مداوم زیرساخت‌ها**
+- **سیستم مانیتورینگ 24 ساعته**
+- **پشتیبانی از آخرین پروتکل‌های امنیتی**
+
+---
+
+### راهنمای نصب و استفاده
+
+پس از خرید سرویس از V2Makers، فایل کانفیگ برای شما ارسال خواهد شد که می‌توانید آن را در کلاینت‌های زیر استفاده کنید:
+
+#### نرم‌افزارهای پیشنهادی:
+- **Windows:** V2RayN, Qv2ray
+- **Android:** V2RayNG
+- **iOS:** V2Box, Shadowrocket, Streisand
+- **MacOS:** V2Box, Shadowrocket, Streisand
+- **Linux:** Qv2ray
+
+#### مراحل راه‌اندازی:
+1. دانلود و نصب یکی از نرم‌افزارهای بالا متناسب با سیستم عامل شما.
+2. وارد کردن فایل کانفیگ دریافتی از V2Makers در نرم‌افزار.
+3. اتصال به سرور و استفاده از اینترنت بدون محدودیت.
+
+---
+
+### خرید نرم‌افزارهای پیشنهادی
+
+#### خرید V2Box - بهترین کلاینت برای iOS و macOS
+V2Box یکی از پرقدرت‌ترین کلاینت‌های V2Ray برای کاربران محصولات اپل است که ویژگی‌های زیر را ارائه می‌دهد:
+- رابط کاربری ساده و کاربرپسند
+- پشتیبانی از تمام پروتکل‌های V2Ray شامل VMess و VLESS
+- مصرف بهینه باتری در دستگاه‌های iOS
+- امکان مدیریت چندین کانفیگ به صورت همزمان
+- بهبود سرعت اتصال با الگوریتم‌های پیشرفته
+
+برای خرید این نرم‌افزار می‌توانید به اپ استور مراجعه کنید یا از فروشگاه‌های معتبر ایرانی تهیه نمایید.
+
+#### خرید V2RayNG - محبوب‌ترین کلاینت اندروید
+V2RayNG با دارا بودن امکانات پیشرفته و رایگان بودن، بهترین انتخاب برای کاربران اندروید است:
+- نرم‌افزار متن باز و رایگان
+- پشتیبانی از Rule-based routing برای تنظیمات پیشرفته
+- امکان تست سرعت مستقیم در نرم‌افزار
+- مصرف بهینه باتری و منابع سیستم
+- به روزرسانی‌های منظم و پشتیبانی از پروتکل‌های جدید
+
+این نرم‌افزار را می‌توانید از گیت‌هاب یا فروشگاه‌های معتبر دریافت نمایید.
+
+---
+
+### تعرفه‌های سرویس V2Ray در V2Makers
+
+| پلن | حجم | قیمت | خرید |
+| --- | --- | ----- | ----- |
+| **یک‌ماهه** | 25 گیگ | 99 هزار تومان | [خرید از تلگرام](#) [خرید از چت سایت](#) |
+| **یک‌ماهه** | 50 گیگ | 149 هزار تومان | [خرید از تلگرام](#) [خرید از چت سایت](#) |
+| **یک‌ماهه پرفروش** | 100 گیگ | 229 هزار تومان | [خرید از تلگرام](#) [خرید از چت سایت](#) |
+| **یک‌ماهه جدید** | حجم نامحدود 3 کاربره | 275 هزار تومان | [خرید از تلگرام](#) [خرید از چت سایت](#) |
+| **دو ماهه** | 50 گیگ | 189 هزار تومان | [خرید از تلگرام](#) [خرید از چت سایت](#) |
+| **سه ماهه تخفیف ویژه** | 100 گیگ | 339 هزار تومان | [خرید از تلگرام](#) [خرید از چت سایت](#) |
+
+برای مشاهده تمام تعرفه‌ها و پلن‌ها، لطفاً به وب‌سایت ما مراجعه کنید.
+
+---
+
+### تماس با پشتیبانی V2Makers
+
+برای سوالات و مشکلات فنی می‌توانید از راه‌های زیر با ما در ارتباط باشید:
+
+- **تلگرام:** [@v2makers_admin](https://t.me/v2makers_admin)
+- **چت آنلاین:** پشتیبانی سایت V2Makers
+- **ساعات پاسخگویی:** 24 ساعته، 7 روز هفته
+- **میانگین زمان پاسخگویی:** کمتر از 15 دقیقه
+
+---
+
+### سوالات متداول
+
+#### چگونه می‌توانم از سرویس V2Makers استفاده کنم؟
+پس از خرید سرویس، فایل کانفیگ برای شما ارسال می‌شود که می‌توانید آن را در نرم‌افزارهای V2Ray مانند V2RayNG یا V2Box وارد کنید.
+
+#### آیا سرویس شما تست قبل از خرید دارد؟
+بله، می‌توانید از طریق پشتیبانی درخواست تست رایگان دهید تا از کیفیت سرویس مطمئن شوید.
+
+#### سرورهای شما در چه کشورهایی قرار دارند؟
+سرورهای V2Makers در کشورهای مختلف از جمله آلمان، فرانسه، هلند، آمریکا و سنگاپور قرار دارند.
+
+#### آیا استفاده از سرویس شما امن است؟
+بله، سرویس‌های ما با استفاده از پروتکل‌های پیشرفته و رمزنگاری قوی طراحی شده‌اند تا حریم خصوصی شما را حفظ کنند و امنیت بالایی را تضمین کنند.
+
+---
+
+**تیم V2Makers** - تمامی حقوق محفوظ است © 2023  
+وب‌سایت طراحی شده با عشق و هدف ارتقاء دسترسی کاربران به اینترنت بدون تحریم و ایمن.
+
+[حریم خصوصی](#) | [شرایط استفاده](#)
